@@ -4,6 +4,7 @@ import { Usuario } from './components/Usuario';
 import { TimerPadre } from './components/TimerPadre';
 import { ContadorRed } from './components/ContadorRed';
 import { Formulario } from './components/Formulario';
+import { Formulario2 } from './components/Formulario2';
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
       <Formulario />
       <br />
       <br />
+      <Formulario2/>
       <br />
       <br />
       <br />
